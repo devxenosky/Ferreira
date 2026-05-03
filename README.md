@@ -3,9 +3,7 @@
 I have been working as a GTA SA-MP server developer since 2020, specializing in mapping and the creation of custom environments. My focus is on delivering well-structured, optimized, and visually consistent projects.
 
 🧩 Technical Skills  
-Mapper  
-Pawn  
-C++
+Mapper,  Pawn,  C++.
 
 🗂️ Experience  
 Active mapper since 2020  
