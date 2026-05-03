@@ -11,4 +11,4 @@ Experience with RP and RPG servers, as well as custom server development project
 
 📬 Contact  
 Email: devxenosky@gmail.com  
-Discord: .xenosky
+Discord: @.xenosky
